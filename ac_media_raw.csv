@@ -1,0 +1,516 @@
+campaign_id,date,advertiser,campaign_name,placement,passenger_segment,route,impressions,clicks,spend_cad,cpc,conversions,revenue_cad
+AC1000,2024-02-05,Marriott Hotels,Product Launch Q1,In-flight Entertainment,International Traveller,YUL-CDG,11358.0,315,765.45,2.43,38,11423.06
+AC1001,2024-02-09,RBC,Retargeting Q2,Seatback Screen,Frequent Flyer,YVR-NRT,17509.0,1123,3346.54,2.98,162,38504.13
+AC1002,2024-03-15,Expedia,Product Launch Q1,Seatback Screen,Business Traveller,YYZ-LAX,8814.0,362,495.94,1.37,30,11334.87
+AC1003,2024-02-26,Hertz,Brand Awareness Q2,Boarding Gate Display,Frequent Flyer,YVR-NRT,6752.0,287,938.49,3.27,35,10544.45
+AC1004,2024-05-17,Hertz,Brand Awareness Q2,WiFi Portal,Leisure Traveller,YUL-CDG,6788.0,217,473.06,2.18,13,864.38
+AC1005,2024-05-15,Marriott Hotels,Seasonal Promo Q2,Boarding Gate Display,Frequent Flyer,YYC-YYZ,4876.0,320,352.0,1.1,34,7099.31
+AC1006,2024-06-04,Hertz,Brand Awareness Q2,In-flight Entertainment,International Traveller,YYZ-MEX,14517.0,593,996.24,1.68,31,11630.72
+AC1007,2024-05-16,Marriott Hotels,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YYZ-MEX,12120.0,778,2645.2,3.4,132,41493.25
+AC1008,2024-02-27,Expedia,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-LAX,6770.0,286,280.28,0.98,15,2484.75
+AC1009,2024-02-18,Hilton,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YYZ-MEX,6588.0,277,709.12,2.56,37,2634.93
+AC1010,2024-04-28,Hilton,Retargeting Q2,Seatback Screen,Frequent Flyer,YUL-CDG,6235.0,491,1620.3,3.3,78,8440.29
+AC1011,2024-03-14,TD Bank,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YVR-NRT,21861.0,1380,3118.8,2.26,203,14211.59
+AC1012,2024-06-21,Marriott Hotels,Brand Awareness Q1,Seatback Screen,Business Traveller,YYC-YYZ,11615.0,617,1437.61,2.33,56,7911.01
+AC1013,2024-01-03,Rogers,Brand Awareness Q1,Boarding Gate Display,International Traveller,YYZ-MEX,4638.0,152,483.36,3.18,24,4304.03
+AC1014,2024-01-30,RBC,Retargeting Q2,WiFi Portal,Business Traveller,YUL-CDG,6532.0,267,670.17,2.51,22,4861.7
+AC1015,2024-06-12,Rogers,Product Launch Q1,In-flight Entertainment,Business Traveller,YVR-NRT,16583.0,869,1042.8,1.2,47,8423.6
+AC1016,2024-06-19,RBC,Product Launch Q1,WiFi Portal,Leisure Traveller,YUL-JFK,6586.0,279,345.96,1.24,42,4702.67
+AC1017,2024-04-07,TD Bank,Brand Awareness Q1,Seatback Screen,International Traveller,YUL-CDG,12711.0,434,611.94,1.41,23,2704.69
+AC1018,2024-02-15,TD Bank,Retargeting Q2,WiFi Portal,Business Traveller,YYZ-LAX,,126,139.86,1.11,21,2447.08
+AC1019,2024-06-08,Samsung,Retargeting Q2,WiFi Portal,Frequent Flyer,YYZ-LAX,3020.0,205,471.5,2.3,15,4240.88
+AC1020,2024-04-20,TD Bank,Product Launch Q1,In-flight Entertainment,International Traveller,YVR-NRT,18559.0,905,2524.95,2.79,122,18217.68
+AC1021,2024-02-07,Samsung,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-MEX,4005.0,172,404.2,2.35,24,4425.42
+AC1022,2024-04-28,Marriott Hotels,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YUL-CDG,4988.0,219,527.79,2.41,37,13393.97
+AC1023,2024-03-04,Hilton,Retargeting Q2,Seatback Screen,Frequent Flyer,YYZ-LHR,17547.0,902,1380.06,1.53,82,19602.37
+AC1024,2024-04-29,Marriott Hotels,Brand Awareness Q2,Boarding Gate Display,Frequent Flyer,YVR-NRT,9883.0,403,1281.54,3.18,50,10847.15
+AC1025,2024-04-21,TD Bank,Retargeting Q2,Seatback Screen,Frequent Flyer,YUL-CDG,5475.0,403,1321.84,3.28,71,16822.97
+AC1026,2024-03-07,TD Bank,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YUL-CDG,,726,2214.3,3.05,60,4720.03
+AC1027,2024-01-06,Marriott Hotels,Product Launch Q1,In-flight Entertainment,Business Traveller,YUL-CDG,12993.0,737,2115.19,2.87,52,13651.9
+AC1028,2024-04-11,Marriott Hotels,Seasonal Promo Q2,In-flight Entertainment,International Traveller,YYC-YYZ,14498.0,732,827.16,1.13,130,42109.91
+AC1029,2024-01-28,Expedia,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YYZ-MEX,22205.0,1745,2669.85,1.53,270,64357.34
+AC1030,2024-04-28,Samsung,Product Launch Q1,In-flight Entertainment,International Traveller,YYZ-LHR,20418.0,640,1100.8,-1.72,105,31018.5
+AC1031,2024-06-14,TD Bank,Seasonal Promo Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,4524.0,145,261.0,1.8,17,2895.36
+AC1032,2024-03-21,Rogers,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-LAX,6389.0,269,766.65,2.85,34,13368.08
+AC1033,2024-03-15,Hertz,Brand Awareness Q2,WiFi Portal,Business Traveller,YYZ-LAX,6021.0,390,507.0,1.3,22,8346.19
+AC1034,2024-03-18,RBC,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YYZ-MEX,9066.0,396,799.92,2.02,42,14744.45
+AC1035,2024-02-10,Marriott Hotels,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YVR-NRT,7847.0,253,225.17,0.89,22,3276.93
+AC1036,2024-06-14,Samsung,Product Launch Q1,Boarding Gate Display,Business Traveller,YYC-YYZ,4169.0,135,444.15,3.29,14,2996.62
+AC1037,2024-06-03,Hilton,Retargeting Q2,In-flight Entertainment,Business Traveller,YYZ-LHR,,1109,3881.5,3.5,152,21937.99
+AC1038,2024-01-24,Rogers,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YUL-JFK,10700.0,604,1292.56,2.14,82,15592.98
+AC1039,2024-04-28,Marriott Hotels,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YUL-JFK,11494.0,511,689.85,1.35,62,23230.5
+AC1040,2024-05-21,Samsung,Brand Awareness Q1,Seatback Screen,International Traveller,YYC-YYZ,6527.0,326,889.98,2.73,37,5390.85
+AC1041,2024-03-11,TD Bank,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YYZ-MEX,10568.0,301,1053.5,3.5,34,3468.29
+AC1042,2024-05-26,Hilton,Product Launch Q1,WiFi Portal,Leisure Traveller,YUL-JFK,5365.0,183,635.01,3.47,28,7789.79
+AC1043,2024-04-26,Expedia,Brand Awareness Q2,In-flight Entertainment,Frequent Flyer,YYZ-LAX,8502.0,605,919.6,1.52,79,14940.41
+AC1044,2024-03-01,Expedia,Brand Awareness Q1,Boarding Gate Display,Business Traveller,YYC-YYZ,10110.0,698,872.5,1.25,62,3728.16
+AC1045,2024-01-21,Samsung,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YUL-CDG,6945.0,260,530.4,2.04,35,12761.63
+AC1046,2024-04-26,Expedia,Retargeting Q2,WiFi Portal,Frequent Flyer,YUL-JFK,5151.0,267,718.23,-2.69,14,4767.18
+AC1047,2024-06-04,RBC,Product Launch Q1,Boarding Gate Display,International Traveller,YYZ-MEX,6115.0,285,872.1,3.06,37,13549.08
+AC1048,2024-02-14,Hertz,Seasonal Promo Q2,In-flight Entertainment,International Traveller,YVR-NRT,14579.0,727,2202.81,3.03,81,26913.95
+AC1049,2024-04-03,Hertz,Brand Awareness Q2,Seatback Screen,Frequent Flyer,YYZ-MEX,17954.0,1256,1896.56,1.51,125,34186.53
+AC1050,2024-06-28,Expedia,Seasonal Promo Q2,Seatback Screen,Business Traveller,YUL-JFK,15637.0,556,589.36,1.06,91,8870.9
+AC1051,2024-05-05,TD Bank,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YUL-JFK,9583.0,522,1800.9,3.45,51,18645.28
+AC1052,2024-01-06,Hilton,Brand Awareness Q2,In-flight Entertainment,Leisure Traveller,YUL-JFK,9657.0,421,968.3,2.3,53,17732.13
+AC1053,2024-02-14,Rogers,Retargeting Q2,Seatback Screen,Leisure Traveller,YYC-YYZ,15830.0,691,877.57,1.27,39,12074.45
+AC1054,2024-06-17,Marriott Hotels,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YYC-YYZ,3510.0,120,254.4,2.12,20,1514.44
+AC1055,2024-06-03,Expedia,Brand Awareness Q2,Boarding Gate Display,International Traveller,YYZ-LHR,4874.0,234,322.92,1.38,25,3249.32
+AC1056,2024-06-24,TD Bank,Product Launch Q1,WiFi Portal,International Traveller,YVR-NRT,2747.0,129,296.7,2.3,16,3944.88
+AC1057,2024-03-31,TD Bank,Retargeting Q2,In-flight Entertainment,International Traveller,YYC-YYZ,11394.0,574,1320.2,2.3,37,5457.46
+AC1058,2024-06-28,RBC,Retargeting Q2,WiFi Portal,Business Traveller,YUL-CDG,4875.0,181,506.8,2.8,31,2545.57
+AC1059,2024-02-10,Rogers,Product Launch Q1,WiFi Portal,Business Traveller,YYZ-LAX,2668.0,127,175.26,1.38,14,2391.35
+AC1060,2024-01-15,Rogers,Brand Awareness Q2,In-flight Entertainment,Leisure Traveller,YYZ-LHR,8251.0,354,757.56,2.14,37,3522.95
+AC1061,2024-04-21,Expedia,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YYZ-MEX,8614.0,488,541.68,1.11,25,4091.72
+AC1062,2024-05-30,Marriott Hotels,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YUL-CDG,9484.0,614,620.14,1.01,81,19092.65
+AC1063,2024-02-20,Hertz,Retargeting Q2,Seatback Screen,Business Traveller,YUL-CDG,14869.0,551,1570.35,2.85,59,22033.79
+AC1064,2024-04-23,Expedia,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YYZ-LAX,9500.0,394,709.2,1.8,34,9371.53
+AC1065,2024-05-01,RBC,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YVR-NRT,10381.0,487,1051.92,2.16,35,4784.86
+AC1066,2024-06-22,Expedia,Retargeting Q2,WiFi Portal,Frequent Flyer,YYZ-LHR,7168.0,368,1012.0,2.75,49,17993.78
+AC1067,2024-01-22,Expedia,Brand Awareness Q2,WiFi Portal,Frequent Flyer,YUL-CDG,5085.0,353,935.45,2.65,41,11320.46
+AC1068,2024-02-05,Samsung,Product Launch Q1,WiFi Portal,Frequent Flyer,YUL-CDG,4423.0,270,699.3,2.59,44,11717.68
+AC1069,2024-06-22,Hertz,Retargeting Q2,Boarding Gate Display,Business Traveller,YYZ-LHR,7668.0,460,1568.6,3.41,69,25280.98
+AC1070,2024-06-03,Rogers,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YUL-CDG,10873.0,802,2486.2,3.1,69,21879.27
+AC1071,2024-01-14,Samsung,Seasonal Promo Q2,Boarding Gate Display,International Traveller,YYZ-LAX,6862.0,217,232.19,1.07,31,5187.9
+AC1072,2024-01-21,Hertz,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YYC-YYZ,5449.0,242,382.36,1.58,21,1400.96
+AC1073,2024-03-15,Hilton,Product Launch Q1,In-flight Entertainment,Leisure Traveller,YUL-JFK,22065.0,717,2459.31,3.43,42,9833.07
+AC1074,2024-01-05,Hilton,Retargeting Q2,In-flight Entertainment,Frequent Flyer,YVR-NRT,19701.0,1246,3538.64,2.84,83,14384.29
+AC1075,2024-01-10,Hilton,Seasonal Promo Q2,Seatback Screen,Leisure Traveller,YYZ-LAX,8302.0,244,732.0,3.0,27,1696.07
+AC1076,2024-04-21,Expedia,Retargeting Q2,WiFi Portal,Business Traveller,YYZ-MEX,5602.0,244,719.8,2.95,20,1578.28
+AC1077,2024-06-18,Rogers,Retargeting Q2,WiFi Portal,Business Traveller,YYZ-LAX,5652.0,207,674.82,3.26,26,5257.96
+AC1078,2024-06-04,TD Bank,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-LAX,3034.0,119,105.91,0.89,8,1659.78
+AC1079,2024-03-04,Expedia,Retargeting Q2,Boarding Gate Display,International Traveller,YUL-JFK,11176.0,318,858.6,2.7,24,6339.77
+AC1080,2024-01-23,Marriott Hotels,Seasonal Promo Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,4063.0,116,315.52,2.72,16,1774.91
+AC1081,2024-05-26,Samsung,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YVR-NRT,5126.0,279,764.46,2.74,33,10533.85
+AC1082,2024-06-12,Hilton,Brand Awareness Q2,Boarding Gate Display,International Traveller,YUL-CDG,10088.0,503,814.86,1.62,35,13200.54
+AC1083,2024-03-11,Marriott Hotels,Brand Awareness Q2,WiFi Portal,Leisure Traveller,YUL-JFK,4480.0,175,220.5,1.26,22,8045.41
+AC1084,2024-05-26,Marriott Hotels,Product Launch Q1,In-flight Entertainment,International Traveller,YUL-JFK,21650.0,729,1530.9,2.1,112,32451.64
+AC1085,2024-02-06,Hilton,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YVR-NRT,8658.0,207,343.62,1.66,22,3159.53
+AC1086,2024-05-27,TD Bank,Retargeting Q2,Seatback Screen,Leisure Traveller,YYZ-MEX,8110.0,275,286.0,1.04,27,5670.83
+AC1087,2024-04-20,Hilton,Brand Awareness Q1,WiFi Portal,Business Traveller,YYZ-MEX,7959.0,481,639.73,1.33,58,4392.69
+AC1088,2024-03-27,Marriott Hotels,Retargeting Q2,Seatback Screen,Business Traveller,YYZ-LHR,17369.0,939,2563.47,2.73,145,33606.14
+AC1089,2024-05-31,Expedia,Retargeting Q2,Seatback Screen,Frequent Flyer,YYC-YYZ,13311.0,541,914.29,1.69,34,6656.83
+AC1090,2024-05-29,Hilton,Brand Awareness Q1,WiFi Portal,Leisure Traveller,YUL-JFK,6294.0,254,279.4,1.1,13,2077.3
+AC1091,2024-05-23,Hilton,Product Launch Q1,In-flight Entertainment,Leisure Traveller,YYC-YYZ,18651.0,908,2061.16,2.27,125,44209.88
+AC1092,2024-03-14,Samsung,Retargeting Q2,WiFi Portal,International Traveller,YUL-CDG,7775.0,412,634.48,1.54,27,7744.08
+AC1093,2024-03-29,Hertz,Brand Awareness Q1,WiFi Portal,Business Traveller,YVR-NRT,4100.0,158,241.74,1.53,10,3093.12
+AC1094,2024-04-30,Samsung,Retargeting Q2,In-flight Entertainment,Business Traveller,YYZ-LHR,11294.0,774,2461.32,3.18,86,23881.21
+AC1095,2024-02-15,Marriott Hotels,Seasonal Promo Q2,Seatback Screen,Business Traveller,YUL-CDG,11504.0,776,644.08,0.83,96,8405.3
+AC1096,2024-01-29,Hilton,Product Launch Q1,Seatback Screen,Frequent Flyer,YVR-NRT,7662.0,409,654.4,1.6,56,6585.96
+AC1097,2024-02-17,Expedia,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YUL-JFK,12607.0,638,1078.22,1.69,80,20040.57
+AC1098,2024-06-29,Hilton,Brand Awareness Q2,WiFi Portal,Leisure Traveller,YYZ-LHR,2961.0,78,158.34,2.03,13,2349.99
+AC1099,2024-05-15,Samsung,Seasonal Promo Q2,Seatback Screen,Business Traveller,YYC-YYZ,6279.0,203,243.6,1.2,18,4178.15
+AC1100,2024-04-16,Hilton,Brand Awareness Q2,In-flight Entertainment,Frequent Flyer,YUL-CDG,22968.0,1152,933.12,0.81,90,6800.43
+AC1101,2024-02-16,Marriott Hotels,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YVR-NRT,9887.0,444,808.08,1.82,26,10073.71
+AC1102,2024-01-06,TD Bank,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YYZ-MEX,12585.0,394,480.68,1.22,29,10333.36
+AC1103,2024-06-01,RBC,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YYZ-LAX,12314.0,262,744.08,2.84,39,3862.85
+AC1104,2024-02-26,Expedia,Brand Awareness Q2,Seatback Screen,International Traveller,YUL-CDG,9923.0,466,1225.58,2.63,56,3718.93
+AC1105,2024-02-17,TD Bank,Seasonal Promo Q2,Boarding Gate Display,Leisure Traveller,YVR-NRT,7927.0,192,366.72,1.91,19,4474.45
+AC1106,2024-01-14,hilton,Product Launch Q1,WiFi Portal,Business Traveller,YYC-YYZ,7518.0,488,1127.28,2.31,54,19133.06
+AC1107,2024-06-29,Marriott Hotels,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,8269.0,259,391.09,1.51,30,6721.41
+AC1108,2024-05-24,Samsung,Brand Awareness Q1,WiFi Portal,International Traveller,YYZ-LHR,3195.0,135,163.35,1.21,12,2195.33
+AC1109,2024-03-31,Rogers,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-LHR,11954.0,785,753.6,0.96,42,14546.45
+AC1110,2024-05-09,Samsung,Product Launch Q1,In-flight Entertainment,Leisure Traveller,YYZ-LAX,22942.0,469,398.65,0.85,67,15913.06
+AC1111,2024-03-02,Hertz,Product Launch Q1,In-flight Entertainment,Business Traveller,YYC-YYZ,14289.0,894,1698.6,1.9,110,43623.97
+AC1112,2024-05-21,RBC,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YYZ-LHR,23597.0,1552,2622.88,1.69,274,107091.23
+AC1113,2024-05-19,Hilton,Retargeting Q2,WiFi Portal,Business Traveller,YYZ-LAX,4576.0,313,588.44,1.88,18,1923.44
+AC1114,2024-05-08,Expedia,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YYZ-MEX,10161.0,226,544.66,2.41,39,6405.04
+AC1115,2024-06-18,td bank,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,7839.0,324,881.28,2.72,42,12972.93
+AC1116,2024-02-17,Expedia,Brand Awareness Q1,WiFi Portal,Business Traveller,YUL-CDG,6562.0,303,730.23,2.41,27,4990.5
+AC1117,2024-03-09,Samsung,Product Launch Q1,Seatback Screen,Frequent Flyer,YUL-CDG,9397.0,557,562.57,1.01,46,6270.1
+AC1118,2024-04-07,Rogers,Brand Awareness Q2,In-flight Entertainment,Frequent Flyer,YVR-NRT,18798.0,854,1426.18,1.67,147,17683.81
+AC1119,2024-04-10,Hilton,Retargeting Q2,Seatback Screen,International Traveller,YYZ-LHR,6865.0,312,1051.44,3.37,34,10129.57
+AC1120,2024-03-02,TD Bank,Retargeting Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,9932.0,220,413.6,1.88,25,9303.43
+AC1121,2024-02-12,Marriott Hotels,Retargeting Q2,In-flight Entertainment,Leisure Traveller,YUL-JFK,9451.0,283,302.81,1.07,22,6850.77
+AC1122,2024-01-27,Hilton,Seasonal Promo Q2,Seatback Screen,International Traveller,YYZ-LAX,11815.0,418,1220.56,2.92,49,8423.35
+AC1123,2024-06-14,RBC,Retargeting Q2,In-flight Entertainment,Business Traveller,YYZ-MEX,11583.0,586,1201.3,2.05,90,24337.45
+AC1124,2024-06-29,Samsung,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YYZ-LHR,4025.0,219,291.27,1.33,14,3986.44
+AC1125,2024-06-07,TD Bank,Seasonal Promo Q2,In-flight Entertainment,International Traveller,YVR-NRT,13653.0,616,887.04,1.44,40,7226.28
+AC1126,2024-06-26,TD Bank,Brand Awareness Q2,Seatback Screen,Frequent Flyer,YUL-JFK,14091.0,912,2863.68,3.14,158,34698.87
+AC1127,2024-05-05,TD Bank,Seasonal Promo Q2,Boarding Gate Display,Frequent Flyer,YUL-JFK,3505.0,171,270.18,1.58,25,6199.44
+AC1128,2024-05-19,Rogers,Seasonal Promo Q2,WiFi Portal,Business Traveller,YYZ-MEX,2838.0,118,355.18,3.01,12,4774.62
+AC1129,2024-02-22,Expedia,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYC-YYZ,8747.0,331,526.29,1.59,41,15716.9
+AC1130,2024-06-28,TD Bank,Product Launch Q1,In-flight Entertainment,International Traveller,YYZ-MEX,12348.0,559,1319.24,2.36,47,9164.0
+AC1131,2024-05-28,Rogers,Retargeting Q2,WiFi Portal,Frequent Flyer,YYZ-LHR,2763.0,198,370.26,1.87,34,11515.69
+AC1132,2024-01-12,Hertz,Brand Awareness Q1,Boarding Gate Display,International Traveller,YUL-JFK,3266.0,124,420.36,3.39,9,2619.06
+AC1133,,Rogers,Brand Awareness Q1,In-flight Entertainment,International Traveller,YVR-NRT,13423.0,508,538.48,1.06,39,3013.86
+AC1134,2024-05-02,Expedia,Product Launch Q1,In-flight Entertainment,Frequent Flyer,YUL-JFK,10320.0,776,907.92,1.17,116,36378.21
+AC1135,2024-06-09,RBC,Product Launch Q1,Seatback Screen,Frequent Flyer,YVR-NRT,11745.0,823,1966.97,2.39,82,31745.24
+AC1136,2024-06-04,rogers,Brand Awareness Q2,In-flight Entertainment,International Traveller,YUL-CDG,24696.0,1205,2217.2,1.84,98,26786.22
+AC1137,2024-04-17,Expedia,Brand Awareness Q2,Seatback Screen,Frequent Flyer,YYZ-MEX,13951.0,567,555.66,0.98,47,3005.15
+AC1138,2024-05-17,TD Bank,Brand Awareness Q2,Boarding Gate Display,Frequent Flyer,YYZ-LAX,8077.0,373,626.64,1.68,47,14905.04
+AC1139,2024-01-30,Samsung,Seasonal Promo Q2,In-flight Entertainment,Leisure Traveller,YYZ-LAX,22856.0,965,2615.15,2.71,136,14598.43
+AC1140,2024-01-31,Hertz,Retargeting Q2,WiFi Portal,Leisure Traveller,YUL-JFK,5517.0,153,327.42,2.14,17,1179.86
+AC1141,2024-03-03,Marriott Hotels,Brand Awareness Q1,Seatback Screen,Business Traveller,YYZ-LAX,12729.0,850,2524.5,2.97,121,33819.03
+AC1142,2024-02-15,Marriott Hotels,Brand Awareness Q1,WiFi Portal,Business Traveller,YYC-YYZ,2376.0,77,129.36,1.68,9,475.1
+AC1143,2024-05-19,Hilton,Product Launch Q1,WiFi Portal,Frequent Flyer,YYZ-MEX,2052.0,138,114.54,0.83,12,3787.5
+AC1144,2024-03-12,Samsung,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-LAX,11515.0,805,1907.85,2.37,93,25391.37
+AC1145,2024-04-10,Hertz,Retargeting Q2,Seatback Screen,International Traveller,YVR-NRT,10211.0,296,322.64,1.09,18,3732.27
+AC1146,2024-01-24,Hilton,Brand Awareness Q1,WiFi Portal,Frequent Flyer,YVR-NRT,4492.0,307,1046.87,3.41,31,2081.11
+AC1147,2024-02-05,Hilton,Brand Awareness Q1,Seatback Screen,Business Traveller,YYZ-LHR,5195.0,183,464.82,-2.54,23,3233.51
+AC1148,2024-02-01,Hilton,Retargeting Q2,Seatback Screen,Business Traveller,YYZ-MEX,12552.0,840,1537.2,1.83,88,15301.45
+AC1149,2024-05-02,Samsung,Brand Awareness Q2,WiFi Portal,Frequent Flyer,YYZ-LHR,4291.0,261,652.5,2.5,40,13127.85
+AC1150,2024-02-16,Hilton,Retargeting Q2,WiFi Portal,International Traveller,YYZ-LHR,6891.0,230,476.1,2.07,22,5596.71
+AC1151,2024-02-15,RBC,Product Launch Q1,Seatback Screen,Frequent Flyer,YVR-NRT,14707.0,1145,2656.4,2.32,141,16339.33
+AC1152,2024-06-03,Hilton,Product Launch Q1,In-flight Entertainment,Business Traveller,YYZ-LAX,15169.0,455,1246.7,-2.74,77,26603.46
+AC1153,2024-05-30,Marriott Hotels,Seasonal Promo Q2,WiFi Portal,Business Traveller,YVR-NRT,4472.0,158,535.62,3.39,21,2330.39
+AC1154,2024-02-02,Samsung,Retargeting Q2,Seatback Screen,Frequent Flyer,YVR-NRT,16941.0,801,1329.66,1.66,124,32733.94
+AC1155,2024-06-11,Marriott Hotels,Product Launch Q1,Seatback Screen,International Traveller,YVR-NRT,16615.0,539,803.11,1.49,34,1715.25
+AC1156,2024-01-26,Hilton,Seasonal Promo Q2,Boarding Gate Display,International Traveller,YYC-YYZ,6695.0,337,559.42,1.66,58,4406.27
+AC1157,2024-04-20,Marriott Hotels,Brand Awareness Q1,WiFi Portal,Frequent Flyer,YUL-JFK,5556.0,313,719.9,2.3,53,12669.33
+AC1158,2024-04-19,Hilton,Brand Awareness Q1,Seatback Screen,Business Traveller,YVR-NRT,9825.0,373,380.46,1.02,59,9317.5
+AC1159,2024-02-17,TD Bank,Retargeting Q2,Seatback Screen,International Traveller,YYZ-LHR,5731.0,189,534.87,2.83,25,1999.94
+AC1160,2024-05-26,RBC,Seasonal Promo Q2,Boarding Gate Display,Frequent Flyer,YYC-YYZ,4293.0,269,591.8,2.2,33,13000.82
+AC1161,2024-04-18,Hertz,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YUL-CDG,16192.0,628,2047.28,3.26,106,7786.14
+AC1162,2024-02-08,Hilton,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YYZ-LAX,12856.0,661,1487.25,2.25,62,12016.31
+AC1163,2024-06-23,Rogers,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YYC-YYZ,8431.0,181,327.61,1.81,16,5244.45
+AC1164,2024-03-23,Samsung,Seasonal Promo Q2,Seatback Screen,International Traveller,YUL-JFK,16940.0,842,2399.7,2.85,137,46217.78
+AC1165,2024-01-15,Hertz,Product Launch Q1,In-flight Entertainment,Leisure Traveller,YUL-CDG,,665,1436.4,2.16,88,8215.28
+AC1166,2024-06-25,Hilton,Retargeting Q2,WiFi Portal,International Traveller,YUL-CDG,2224.0,107,149.8,1.4,8,978.85
+AC1167,2024-06-02,RBC,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YUL-JFK,8004.0,330,1023.0,3.1,36,4549.43
+AC1168,2024-05-03,RBC,Brand Awareness Q1,WiFi Portal,International Traveller,YVR-NRT,4264.0,197,317.17,1.61,13,4132.91
+AC1169,2024-03-16,Expedia,Seasonal Promo Q2,Seatback Screen,Business Traveller,YUL-JFK,11857.0,705,1219.65,1.73,100,29021.13
+AC1170,2024-04-30,Rogers,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YVR-NRT,17139.0,805,1127.0,1.4,131,25828.67
+AC1171,2024-05-28,Marriott Hotels,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YYZ-MEX,11199.0,389,1225.35,3.15,27,10727.69
+AC1172,2024-05-04,Hertz,Brand Awareness Q1,WiFi Portal,Leisure Traveller,YYZ-MEX,3448.0,69,86.94,1.26,10,2213.52
+AC1173,2024-01-10,TD Bank,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YYZ-LHR,3230.0,131,106.11,0.81,19,2454.67
+AC1174,2024-03-17,Rogers,Brand Awareness Q1,Seatback Screen,Business Traveller,YYZ-MEX,12469.0,671,1160.83,1.73,112,19682.63
+AC1175,2024-05-30,Samsung,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YUL-CDG,,339,976.32,2.88,44,11346.43
+AC1176,2024-05-20,Marriott Hotels,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YYZ-LHR,5508.0,313,334.91,1.07,36,9647.25
+AC1177,,Marriott Hotels,Brand Awareness Q1,WiFi Portal,Business Traveller,YYZ-MEX,3636.0,230,282.9,1.23,27,9952.87
+AC1178,2024-05-10,Marriott Hotels,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YUL-CDG,10459.0,827,1248.77,1.51,46,15392.17
+AC1179,2024-01-03,TD Bank,Brand Awareness Q1,In-flight Entertainment,Business Traveller,YYZ-MEX,12534.0,540,1501.2,2.78,53,9007.51
+AC1180,2024-06-27,Hilton,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYZ-LAX,9816.0,338,828.1,2.45,51,13462.75
+AC1181,2024-01-12,Hilton,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YYZ-LHR,8148.0,248,682.0,2.75,19,7305.81
+AC1182,2024-02-08,TD Bank,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YVR-NRT,5190.0,241,682.03,2.83,22,3647.89
+AC1183,2024-04-24,Samsung,Brand Awareness Q2,In-flight Entertainment,Frequent Flyer,YYZ-LHR,10884.0,480,916.8,1.91,58,2903.45
+AC1184,2024-02-27,Samsung,Brand Awareness Q1,Boarding Gate Display,International Traveller,YVR-NRT,10751.0,414,1068.12,2.58,20,3485.97
+AC1185,2024-04-14,Marriott Hotels,Product Launch Q1,In-flight Entertainment,Leisure Traveller,YYZ-LHR,11504.0,551,1603.41,2.91,78,6842.0
+AC1186,2024-05-15,Hilton,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YYZ-LHR,10912.0,473,600.71,1.27,73,6295.8
+AC1187,2024-03-16,TD Bank,Retargeting Q2,Seatback Screen,International Traveller,YYZ-LHR,7185.0,290,661.2,2.28,26,8005.05
+AC1188,2024-06-26,expedia,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YYC-YYZ,16638.0,623,1632.26,2.62,103,24397.2
+AC1189,2024-02-21,TD Bank,Brand Awareness Q1,Seatback Screen,Business Traveller,YUL-JFK,17291.0,991,1337.85,1.35,119,20889.12
+AC1190,2024-06-26,Samsung,Retargeting Q2,Boarding Gate Display,Leisure Traveller,YYC-YYZ,9825.0,484,406.56,0.84,40,10687.86
+AC1191,2024-02-15,expedia,Seasonal Promo Q2,Seatback Screen,Leisure Traveller,YVR-NRT,8063.0,171,210.33,1.23,27,1403.35
+AC1192,2024-05-20,RBC,Brand Awareness Q2,WiFi Portal,Frequent Flyer,YYZ-MEX,7797.0,557,685.11,1.23,67,12810.13
+AC1193,2024-01-30,Rogers,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YYC-YYZ,12301.0,942,3155.7,3.35,94,22473.81
+AC1194,2024-03-23,Hilton,Product Launch Q1,Boarding Gate Display,Business Traveller,YVR-NRT,5742.0,395,541.15,1.37,52,6479.79
+AC1195,2024-03-25,TD Bank,Seasonal Promo Q2,In-flight Entertainment,Leisure Traveller,YYZ-LAX,9241.0,254,828.04,3.26,26,5405.24
+AC1196,2024-04-01,RBC,Brand Awareness Q1,In-flight Entertainment,Business Traveller,YUL-JFK,24476.0,1328,4010.56,3.02,71,7434.64
+AC1197,2024-01-03,Rogers,Retargeting Q2,Seatback Screen,International Traveller,YUL-JFK,7019.0,290,397.3,1.37,42,12771.28
+AC1198,2024-02-16,Hertz,Brand Awareness Q1,Seatback Screen,International Traveller,YUL-CDG,17305.0,781,1038.73,1.33,97,37154.78
+AC1199,2024-03-25,Marriott Hotels,Seasonal Promo Q2,Seatback Screen,International Traveller,YYZ-LHR,16361.0,564,456.84,0.81,46,5866.56
+AC1200,2024-03-19,Expedia,Retargeting Q2,Boarding Gate Display,Frequent Flyer,YYZ-LHR,5879.0,429,1377.09,3.21,32,9815.7
+AC1201,2024-03-07,RBC,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YYZ-LAX,8993.0,420,487.2,-1.16,48,3921.31
+AC1202,2024-05-24,Hertz,Product Launch Q1,Seatback Screen,Frequent Flyer,YUL-CDG,17057.0,840,1268.4,1.51,67,19028.33
+AC1203,2024-06-11,RBC,Brand Awareness Q2,In-flight Entertainment,International Traveller,YYZ-LAX,16961.0,616,1989.68,3.23,37,5108.04
+AC1204,2024-05-08,Expedia,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YYC-YYZ,6768.0,321,571.38,1.78,45,4113.7
+AC1205,2024-06-14,Hilton,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYC-YYZ,3706.0,139,446.19,3.21,9,973.98
+AC1206,2024-06-04,RBC,Seasonal Promo Q2,WiFi Portal,Business Traveller,YUL-CDG,3397.0,214,276.06,1.29,29,4134.89
+AC1207,2024-01-05,Samsung,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YUL-CDG,9877.0,751,1817.42,2.42,123,29028.06
+AC1208,2024-06-27,RBC,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YVR-NRT,9246.0,679,1602.44,2.36,71,9874.77
+AC1209,2024-05-27,TD Bank,Brand Awareness Q1,WiFi Portal,Leisure Traveller,YYZ-LAX,2058.0,83,101.26,1.22,11,1526.49
+AC1210,2024-05-03,TD Bank,Brand Awareness Q2,Seatback Screen,Frequent Flyer,YYC-YYZ,11065.0,754,2103.66,2.79,121,33970.63
+AC1211,2024-06-06,Samsung,Brand Awareness Q2,Boarding Gate Display,International Traveller,YYZ-MEX,3086.0,120,124.8,1.04,10,1797.92
+AC1212,2024-04-22,Rogers,Seasonal Promo Q2,In-flight Entertainment,Leisure Traveller,YUL-JFK,8350.0,175,250.25,-1.43,12,751.46
+AC1213,2024-02-21,TD Bank,Brand Awareness Q2,WiFi Portal,Frequent Flyer,YYZ-LHR,7764.0,484,1147.08,2.37,46,15429.79
+AC1214,2024-01-28,RBC,Brand Awareness Q2,WiFi Portal,Leisure Traveller,YYZ-LHR,4410.0,194,582.0,3.0,24,7031.21
+AC1215,2024-03-07,Hilton,Brand Awareness Q1,Boarding Gate Display,Business Traveller,YYZ-LHR,6610.0,377,825.63,2.19,19,6483.98
+AC1216,2024-02-25,Marriott Hotels,Retargeting Q2,Seatback Screen,Frequent Flyer,YVR-NRT,7994.0,598,813.28,1.36,45,6182.7
+AC1217,2024-04-05,Hilton,Seasonal Promo Q2,In-flight Entertainment,Business Traveller,YYZ-MEX,18335.0,910,1274.0,1.4,113,7791.56
+AC1218,2024-04-27,TD Bank,Brand Awareness Q2,Seatback Screen,Frequent Flyer,YYZ-LAX,16292.0,887,2776.31,3.13,65,9229.82
+AC1219,2024-04-03,TD Bank,Retargeting Q2,Seatback Screen,Frequent Flyer,YUL-JFK,9581.0,695,1911.25,2.75,107,26147.48
+AC1220,2024-02-04,Hilton,Seasonal Promo Q2,In-flight Entertainment,Leisure Traveller,YYZ-LHR,24941.0,723,1359.24,1.88,101,7172.29
+AC1221,2024-05-22,Expedia,Brand Awareness Q2,WiFi Portal,International Traveller,YVR-NRT,2162.0,116,272.6,2.35,15,1666.33
+AC1222,2024-04-28,Hilton,Retargeting Q2,In-flight Entertainment,Frequent Flyer,YYC-YYZ,12746.0,972,981.72,1.01,92,14694.12
+AC1223,2024-02-17,hilton,Product Launch Q1,WiFi Portal,Frequent Flyer,YYZ-LHR,7961.0,343,428.75,1.25,21,1518.87
+AC1224,2024-01-22,Marriott Hotels,Product Launch Q1,In-flight Entertainment,International Traveller,YYC-YYZ,20774.0,598,753.48,1.26,32,5596.62
+AC1225,,Rogers,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,10126.0,396,894.96,2.26,61,12483.72
+AC1226,2024-01-03,Hertz,Brand Awareness Q2,WiFi Portal,International Traveller,YYZ-LHR,5908.0,199,163.18,0.82,19,3688.04
+AC1227,2024-04-18,TD Bank,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YVR-NRT,7454.0,315,976.5,3.1,23,3481.24
+AC1228,2024-05-16,Samsung,Brand Awareness Q1,WiFi Portal,Business Traveller,YUL-CDG,2837.0,115,139.15,1.21,13,2205.7
+AC1229,2024-01-15,RBC,Product Launch Q1,WiFi Portal,Business Traveller,YYZ-MEX,5214.0,269,492.27,1.83,13,5084.42
+AC1230,2024-05-13,RBC,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YUL-JFK,12746.0,889,2026.92,2.28,58,12668.96
+AC1231,2024-02-12,Marriott Hotels,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YVR-NRT,14579.0,1040,2163.2,2.08,132,23758.62
+AC1232,2024-06-28,RBC,Product Launch Q1,In-flight Entertainment,International Traveller,YUL-JFK,11519.0,510,1637.1,3.21,74,4253.04
+AC1233,2024-02-17,hilton,Brand Awareness Q2,WiFi Portal,Frequent Flyer,YUL-CDG,7999.0,497,492.03,0.99,34,5218.5
+AC1234,2024-06-07,TD Bank,Retargeting Q2,Seatback Screen,Business Traveller,YYC-YYZ,10254.0,577,1234.78,2.14,70,18519.46
+AC1235,2024-02-21,marriott hotels,Brand Awareness Q1,In-flight Entertainment,Leisure Traveller,YUL-CDG,11507.0,451,1118.48,2.48,57,3829.26
+AC1236,2024-04-02,Hilton,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YYZ-MEX,21629.0,926,1500.12,1.62,160,61792.86
+AC1237,2024-06-12,Samsung,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YUL-JFK,16050.0,899,1537.29,1.71,63,25165.46
+AC1238,2024-03-23,expedia,Seasonal Promo Q2,WiFi Portal,Frequent Flyer,YYZ-MEX,,351,709.02,2.02,61,3054.18
+AC1239,2024-03-21,Rogers,Product Launch Q1,In-flight Entertainment,International Traveller,YUL-CDG,8711.0,366,384.3,1.05,40,4185.5
+AC1240,2024-01-20,Rogers,Product Launch Q1,In-flight Entertainment,Frequent Flyer,YYC-YYZ,18639.0,1356,1437.36,1.06,181,11417.49
+AC1241,2024-02-28,Expedia,Brand Awareness Q1,WiFi Portal,Frequent Flyer,YYZ-LHR,7178.0,449,754.32,1.68,63,6528.0
+AC1242,2024-02-07,Marriott Hotels,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YVR-NRT,10507.0,456,980.4,2.15,68,6502.93
+AC1243,2024-04-20,Samsung,Retargeting Q2,Seatback Screen,Leisure Traveller,YYZ-LAX,16218.0,525,908.25,1.73,70,22357.19
+AC1244,2024-02-21,Hertz,Product Launch Q1,Boarding Gate Display,Business Traveller,YYZ-MEX,4405.0,151,475.65,3.15,23,1260.55
+AC1245,2024-03-07,Samsung,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YYC-YYZ,15207.0,609,1351.98,2.22,50,3551.93
+AC1246,2024-06-18,RBC,Retargeting Q2,In-flight Entertainment,Frequent Flyer,YUL-JFK,19803.0,1093,3759.92,3.44,68,10907.85
+AC1247,2024-03-19,Hilton,Brand Awareness Q2,In-flight Entertainment,Business Traveller,YUL-CDG,18930.0,581,2027.69,3.49,102,14948.85
+AC1248,2024-04-10,RBC,Retargeting Q2,WiFi Portal,Leisure Traveller,YUL-CDG,7979.0,321,619.53,1.93,39,7771.25
+AC1249,2024-02-04,Hertz,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YVR-NRT,17616.0,646,1072.36,1.66,106,32274.65
+AC1250,2024-01-28,Hilton,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-MEX,2214.0,84,73.08,0.87,5,1614.7
+AC1251,2024-02-11,Hertz,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-LHR,9694.0,547,1531.6,2.8,97,30576.52
+AC1252,2024-04-13,Hilton,Seasonal Promo Q2,WiFi Portal,Frequent Flyer,YUL-CDG,5116.0,314,794.42,2.53,44,2793.08
+AC1253,2024-05-12,Samsung,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YYC-YYZ,10201.0,468,907.92,1.94,60,4145.48
+AC1254,2024-03-23,Marriott Hotels,Seasonal Promo Q2,Seatback Screen,Leisure Traveller,YYZ-LHR,5408.0,223,330.04,1.48,31,11392.71
+AC1255,2024-05-10,Hilton,Seasonal Promo Q2,WiFi Portal,Business Traveller,YYC-YYZ,6508.0,206,644.78,3.13,14,1408.58
+AC1256,2024-02-21,Hilton,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-LAX,4073.0,185,588.3,3.18,14,3585.43
+AC1257,2024-02-07,Samsung,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-LAX,4859.0,101,170.69,1.69,6,528.66
+AC1258,2024-03-17,Hertz,Brand Awareness Q1,Boarding Gate Display,International Traveller,YYZ-LAX,4108.0,110,124.3,1.13,17,2808.79
+AC1259,2024-03-22,Marriott Hotels,Brand Awareness Q2,Boarding Gate Display,International Traveller,YYZ-LHR,8797.0,350,749.0,2.14,54,19401.24
+AC1260,2024-04-16,hilton,Brand Awareness Q2,In-flight Entertainment,Leisure Traveller,YYZ-MEX,21567.0,843,1315.08,1.56,128,20188.21
+AC1261,2024-02-19,Expedia,Product Launch Q1,Boarding Gate Display,Business Traveller,YYZ-MEX,10849.0,723,1800.27,2.49,119,28314.7
+AC1262,2024-06-24,Rogers,Brand Awareness Q2,WiFi Portal,Business Traveller,YUL-CDG,2542.0,104,319.28,3.07,12,2236.18
+AC1263,2024-05-07,Expedia,Brand Awareness Q1,In-flight Entertainment,International Traveller,YYZ-LHR,,447,1296.3,2.9,75,15399.07
+AC1264,2024-05-12,Hilton,Brand Awareness Q1,WiFi Portal,International Traveller,YUL-CDG,7935.0,322,1069.04,3.32,44,11352.03
+AC1265,2024-03-23,Rogers,Product Launch Q1,In-flight Entertainment,International Traveller,YUL-JFK,14571.0,657,808.11,1.23,42,16186.98
+AC1266,2024-02-13,Rogers,Product Launch Q1,Seatback Screen,International Traveller,YYC-YYZ,10101.0,261,245.34,0.94,26,2083.69
+AC1267,2024-06-20,Hilton,Product Launch Q1,WiFi Portal,International Traveller,YVR-NRT,5814.0,267,437.88,1.64,35,11139.55
+AC1268,2024-03-24,Rogers,Retargeting Q2,WiFi Portal,Frequent Flyer,YUL-CDG,2247.0,105,301.35,2.87,13,1229.64
+AC1269,2024-04-15,Marriott Hotels,Brand Awareness Q2,WiFi Portal,Frequent Flyer,YYZ-LHR,3996.0,193,515.31,2.67,20,7861.44
+AC1270,2024-04-28,Marriott Hotels,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YYC-YYZ,10294.0,381,1143.0,3.0,57,10409.27
+AC1271,2024-03-15,RBC,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YYZ-LHR,15085.0,610,1994.7,3.27,54,20529.0
+AC1272,2024-01-16,RBC,Retargeting Q2,Boarding Gate Display,Leisure Traveller,YYZ-MEX,3013.0,134,420.76,3.14,10,2957.78
+AC1273,2024-05-22,Samsung,Product Launch Q1,Seatback Screen,Frequent Flyer,YUL-CDG,10902.0,441,1124.55,2.55,30,10791.33
+AC1274,2024-04-26,TD Bank,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYC-YYZ,10373.0,418,898.7,2.15,60,17954.73
+AC1275,2024-05-03,RBC,Brand Awareness Q2,Boarding Gate Display,International Traveller,YYZ-LAX,11624.0,562,567.62,1.01,93,7528.93
+AC1276,2024-04-30,Rogers,Brand Awareness Q1,In-flight Entertainment,International Traveller,YYC-YYZ,22877.0,1119,1007.1,0.9,190,59336.78
+AC1277,2024-01-07,Hertz,Brand Awareness Q2,In-flight Entertainment,International Traveller,YYZ-MEX,17398.0,579,903.24,1.56,93,5112.31
+AC1278,2024-05-04,Hilton,Product Launch Q1,WiFi Portal,Leisure Traveller,YVR-NRT,2271.0,111,339.66,3.06,16,3112.51
+AC1279,2024-01-14,expedia,Brand Awareness Q1,In-flight Entertainment,International Traveller,YYZ-MEX,13491.0,641,1173.03,1.83,90,19449.57
+AC1280,2024-01-25,Hilton,Brand Awareness Q1,Boarding Gate Display,International Traveller,YYC-YYZ,7466.0,208,386.88,1.86,31,9677.64
+AC1281,2024-01-18,Hertz,Brand Awareness Q1,WiFi Portal,Business Traveller,YUL-JFK,2800.0,95,125.4,1.32,5,410.9
+AC1282,2024-02-03,Marriott Hotels,Brand Awareness Q2,In-flight Entertainment,Business Traveller,YYZ-MEX,20319.0,1337,4452.21,3.33,177,66010.98
+AC1283,2024-03-11,Expedia,Brand Awareness Q1,WiFi Portal,Leisure Traveller,YYZ-MEX,5183.0,143,141.57,0.99,25,3005.85
+AC1284,,TD Bank,Retargeting Q2,Seatback Screen,Business Traveller,YYZ-LHR,6194.0,378,302.4,0.8,20,3733.39
+AC1285,2024-05-18,Hilton,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YYZ-LHR,10898.0,581,941.22,1.62,33,13165.53
+AC1286,2024-01-11,Hilton,Brand Awareness Q2,WiFi Portal,Leisure Traveller,YUL-CDG,3564.0,167,172.01,1.03,22,6762.0
+AC1287,2024-06-13,Hilton,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YYZ-MEX,10361.0,711,1955.25,2.75,73,9058.38
+AC1288,2024-05-05,Hertz,Product Launch Q1,Seatback Screen,Business Traveller,YYZ-LAX,12720.0,505,1636.2,3.24,79,6640.13
+AC1289,2024-04-19,Marriott Hotels,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYZ-LAX,9586.0,472,1444.32,3.06,72,22858.54
+AC1290,2024-04-22,TD Bank,Product Launch Q1,Seatback Screen,International Traveller,YYC-YYZ,14535.0,630,529.2,0.84,71,3707.79
+AC1291,2024-06-12,TD Bank,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YUL-CDG,9750.0,246,674.04,2.74,31,2505.03
+AC1292,2024-05-18,Samsung,Retargeting Q2,In-flight Entertainment,Business Traveller,YYC-YYZ,24631.0,1011,3457.62,3.42,112,12511.89
+AC1293,2024-01-12,TD Bank,Seasonal Promo Q2,WiFi Portal,International Traveller,YYC-YYZ,2429.0,96,309.12,3.22,13,3346.82
+AC1294,2024-04-15,Marriott Hotels,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-LAX,3807.0,131,433.61,3.31,14,2597.92
+AC1295,2024-01-16,Samsung,Brand Awareness Q2,WiFi Portal,Leisure Traveller,YYZ-LAX,2910.0,73,177.39,2.43,11,3006.3
+AC1296,2024-05-31,marriott hotels,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-MEX,3237.0,171,403.56,2.36,28,7199.36
+AC1297,2024-04-10,rbc,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YYZ-LHR,10412.0,518,984.2,1.9,40,7017.68
+AC1298,2024-02-05,Hertz,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YYZ-LHR,10607.0,616,1644.72,2.67,73,11227.87
+AC1299,2024-05-11,Samsung,Brand Awareness Q1,In-flight Entertainment,International Traveller,YUL-JFK,19927.0,716,1653.96,2.31,42,12527.26
+AC1300,2024-03-09,Hilton,Retargeting Q2,Seatback Screen,Leisure Traveller,YVR-NRT,16144.0,503,1529.12,3.04,55,12989.16
+AC1301,2024-04-10,Marriott Hotels,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YYZ-LAX,9724.0,447,603.45,1.35,77,4461.5
+AC1302,2024-01-17,TD Bank,Product Launch Q1,Boarding Gate Display,Business Traveller,YVR-NRT,8503.0,395,948.0,2.4,55,18956.73
+AC1303,2024-03-14,Hertz,Retargeting Q2,WiFi Portal,Leisure Traveller,YYZ-LHR,4892.0,122,191.54,1.57,21,7219.09
+AC1304,2024-04-04,RBC,Retargeting Q2,WiFi Portal,Leisure Traveller,YYZ-LHR,,325,1114.75,3.43,38,3515.82
+AC1305,2024-05-09,Expedia,Brand Awareness Q2,Seatback Screen,Business Traveller,YUL-JFK,15604.0,763,1793.05,2.35,52,12887.21
+AC1306,2024-04-12,RBC,Brand Awareness Q1,Seatback Screen,Business Traveller,YVR-NRT,12306.0,529,1539.39,2.91,79,9361.54
+AC1307,2024-06-03,TD Bank,Brand Awareness Q2,Seatback Screen,Frequent Flyer,YVR-NRT,5918.0,328,272.24,0.83,31,4892.73
+AC1308,2024-04-16,TD Bank,Seasonal Promo Q2,Boarding Gate Display,International Traveller,YUL-CDG,4410.0,241,412.11,-1.71,41,10526.24
+AC1309,2024-04-07,Hertz,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YUL-CDG,3691.0,107,299.6,2.8,8,2615.41
+AC1310,2024-06-25,Marriott Hotels,Seasonal Promo Q2,WiFi Portal,Frequent Flyer,YUL-CDG,2977.0,162,340.2,2.1,17,2384.57
+AC1311,2024-02-07,RBC,Brand Awareness Q1,WiFi Portal,Leisure Traveller,YYC-YYZ,7679.0,165,557.7,3.38,9,1368.74
+AC1312,2024-06-24,Marriott Hotels,Retargeting Q2,Seatback Screen,International Traveller,YYZ-MEX,9447.0,469,1031.8,2.2,46,10106.87
+AC1313,2024-01-20,Samsung,Seasonal Promo Q2,Seatback Screen,Business Traveller,YYZ-LHR,7150.0,314,1089.58,3.47,37,14412.94
+AC1314,2024-02-23,Hertz,Product Launch Q1,Seatback Screen,Leisure Traveller,YVR-NRT,6287.0,271,295.39,1.09,41,9418.43
+AC1315,2024-05-30,RBC,Product Launch Q1,In-flight Entertainment,Business Traveller,YYC-YYZ,14554.0,453,1073.61,2.37,43,15019.83
+AC1316,2024-05-17,RBC,Product Launch Q1,Seatback Screen,Leisure Traveller,YVR-NRT,16884.0,768,998.4,1.3,105,9194.18
+AC1317,2024-01-29,TD Bank,Seasonal Promo Q2,In-flight Entertainment,International Traveller,YYZ-LAX,12453.0,433,679.81,1.57,55,8756.13
+AC1318,2024-06-22,TD Bank,Seasonal Promo Q2,Seatback Screen,Business Traveller,YYZ-MEX,7937.0,451,505.12,1.12,45,13196.83
+AC1319,2024-04-13,Expedia,Brand Awareness Q2,Seatback Screen,International Traveller,YUL-CDG,8815.0,374,1095.82,2.93,50,9504.12
+AC1320,2024-03-05,Rogers,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YYZ-LAX,13147.0,787,684.69,0.87,57,14911.45
+AC1321,2024-05-05,Hilton,Seasonal Promo Q2,Boarding Gate Display,Leisure Traveller,YVR-NRT,8629.0,312,1082.64,3.47,51,4676.54
+AC1322,2024-02-04,Hertz,Seasonal Promo Q2,WiFi Portal,Leisure Traveller,YYZ-LHR,5187.0,192,433.92,2.26,21,5182.58
+AC1323,2024-01-08,TD Bank,Brand Awareness Q1,WiFi Portal,International Traveller,YVR-NRT,5001.0,239,437.37,1.83,25,9929.52
+AC1324,2024-01-30,Rogers,Retargeting Q2,In-flight Entertainment,Business Traveller,YYZ-MEX,19062.0,820,2648.6,3.23,69,20257.4
+AC1325,2024-03-27,Marriott Hotels,Product Launch Q1,Boarding Gate Display,Business Traveller,YUL-JFK,8563.0,313,788.76,2.52,55,4199.93
+AC1326,2024-01-25,TD Bank,Brand Awareness Q2,Seatback Screen,Business Traveller,YUL-JFK,9478.0,464,747.04,1.61,71,14307.83
+AC1327,2024-02-17,Hilton,Brand Awareness Q2,Seatback Screen,Business Traveller,YUL-JFK,8489.0,345,1121.25,3.25,59,17954.6
+AC1328,2024-06-11,Rogers,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YVR-NRT,7702.0,433,480.63,1.11,32,4350.57
+AC1329,2024-01-08,RBC,Product Launch Q1,Seatback Screen,Leisure Traveller,YVR-NRT,17937.0,381,361.95,0.95,63,10071.6
+AC1330,2024-05-26,Marriott Hotels,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YUL-CDG,11605.0,540,1609.2,2.98,50,12725.71
+AC1331,2024-04-22,Hertz,Retargeting Q2,In-flight Entertainment,Leisure Traveller,YUL-CDG,21381.0,667,1293.98,1.94,92,35618.75
+AC1332,2024-06-25,Rogers,Brand Awareness Q1,In-flight Entertainment,Business Traveller,YYZ-MEX,15853.0,671,758.23,1.13,109,38169.24
+AC1333,2024-03-17,Rogers,Product Launch Q1,WiFi Portal,Business Traveller,YYZ-MEX,5595.0,364,1142.96,3.14,57,21612.88
+AC1334,2024-03-31,Marriott Hotels,Brand Awareness Q1,Seatback Screen,International Traveller,YYC-YYZ,14865.0,383,968.99,2.53,50,16342.84
+AC1335,2024-06-15,Marriott Hotels,Brand Awareness Q2,In-flight Entertainment,Leisure Traveller,YUL-CDG,12262.0,362,543.0,1.5,50,16968.45
+AC1336,2024-06-14,td bank,Brand Awareness Q2,Seatback Screen,Business Traveller,YYZ-LAX,6457.0,261,631.62,2.42,18,6935.61
+AC1337,2024-02-18,Hilton,Product Launch Q1,Boarding Gate Display,Business Traveller,YUL-CDG,9259.0,325,507.0,1.56,44,8642.3
+AC1338,2024-01-22,Hilton,Seasonal Promo Q2,Seatback Screen,International Traveller,YYC-YYZ,12682.0,397,770.18,1.94,50,3778.47
+AC1339,2024-06-07,Expedia,Brand Awareness Q2,In-flight Entertainment,Business Traveller,YVR-NRT,20482.0,722,909.72,1.26,82,13834.37
+AC1340,2024-05-07,Rogers,Product Launch Q1,In-flight Entertainment,International Traveller,YYZ-LAX,17207.0,746,1126.46,1.51,67,24283.15
+AC1341,2024-02-28,Hilton,Brand Awareness Q1,In-flight Entertainment,Leisure Traveller,YUL-CDG,14001.0,476,1018.64,2.14,51,20200.41
+AC1342,2024-03-13,Hertz,Product Launch Q1,In-flight Entertainment,International Traveller,YYZ-LAX,13919.0,436,353.16,0.81,65,7357.94
+AC1343,2024-04-10,Expedia,Brand Awareness Q1,In-flight Entertainment,International Traveller,YUL-JFK,,1010,2050.3,2.03,175,45145.01
+AC1344,2024-06-13,Expedia,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YYZ-MEX,,391,566.95,1.45,58,10998.02
+AC1345,2024-03-20,Hertz,Seasonal Promo Q2,In-flight Entertainment,International Traveller,YYZ-LHR,12302.0,488,1019.92,2.09,60,11884.48
+AC1346,2024-04-28,TD Bank,Retargeting Q2,In-flight Entertainment,Business Traveller,YYC-YYZ,15347.0,1031,2123.86,2.06,62,20493.52
+AC1347,2024-05-21,Samsung,Brand Awareness Q1,Boarding Gate Display,International Traveller,YYC-YYZ,4763.0,185,553.15,-2.99,17,4334.13
+AC1348,2024-06-29,Hertz,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YYZ-LAX,10454.0,630,2066.4,3.28,97,12015.77
+AC1349,2024-01-04,TD Bank,Brand Awareness Q1,In-flight Entertainment,Business Traveller,YYZ-LHR,13627.0,785,1656.35,2.11,102,39869.01
+AC1350,2024-02-18,Rogers,Brand Awareness Q1,In-flight Entertainment,Leisure Traveller,YUL-CDG,11667.0,306,605.88,1.98,40,13060.16
+AC1351,2024-05-04,RBC,Seasonal Promo Q2,In-flight Entertainment,Leisure Traveller,YUL-CDG,23449.0,869,712.58,0.82,114,34152.4
+AC1352,2024-05-11,Rogers,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YYZ-LHR,23987.0,1020,3274.2,3.21,106,22860.84
+AC1353,2024-04-30,RBC,Product Launch Q1,Seatback Screen,International Traveller,YUL-JFK,12178.0,428,1313.96,3.07,57,5466.61
+AC1354,2024-03-13,Expedia,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYC-YYZ,5115.0,126,422.1,3.35,14,1850.12
+AC1355,2024-03-27,Hertz,Brand Awareness Q1,Seatback Screen,Business Traveller,YYZ-MEX,6867.0,239,420.64,1.76,13,4643.6
+AC1356,2024-01-29,Marriott Hotels,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YYZ-MEX,11469.0,747,2353.05,3.15,125,13120.17
+AC1357,2024-02-01,Marriott Hotels,Product Launch Q1,Seatback Screen,International Traveller,YVR-NRT,12194.0,429,441.87,1.03,42,13196.22
+AC1358,2024-04-15,TD Bank,Seasonal Promo Q2,Seatback Screen,Leisure Traveller,YYZ-MEX,12516.0,416,915.2,2.2,24,4041.75
+AC1359,2024-03-16,RBC,Brand Awareness Q2,Seatback Screen,Business Traveller,YUL-JFK,11586.0,681,2199.63,3.23,88,8923.34
+AC1360,2024-03-18,Hilton,Product Launch Q1,WiFi Portal,Frequent Flyer,YYZ-MEX,6402.0,389,879.14,2.26,30,6872.55
+AC1361,2024-05-09,Rogers,Seasonal Promo Q2,Seatback Screen,International Traveller,YUL-JFK,,487,1626.58,3.34,52,13018.32
+AC1362,2024-06-21,Samsung,Brand Awareness Q2,WiFi Portal,International Traveller,YVR-NRT,5093.0,206,597.4,2.9,22,2228.46
+AC1363,2024-04-04,Hertz,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YYZ-LHR,11502.0,530,1849.7,3.49,73,27866.8
+AC1364,2024-05-15,Hilton,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,10461.0,443,1492.91,3.37,56,10808.95
+AC1365,2024-05-04,Expedia,Retargeting Q2,WiFi Portal,International Traveller,YVR-NRT,,168,263.76,1.57,12,3706.57
+AC1366,2024-05-01,Hilton,Seasonal Promo Q2,WiFi Portal,Frequent Flyer,YVR-NRT,3134.0,144,398.88,2.77,8,2149.36
+AC1367,2024-02-12,RBC,Brand Awareness Q1,Boarding Gate Display,International Traveller,YUL-JFK,8060.0,336,829.92,2.47,41,2808.75
+AC1368,2024-03-03,Marriott Hotels,Product Launch Q1,Seatback Screen,Business Traveller,YVR-NRT,6386.0,294,582.12,1.98,30,10526.31
+AC1369,2024-01-23,Hertz,Retargeting Q2,WiFi Portal,Leisure Traveller,YUL-CDG,5336.0,260,416.0,1.6,16,1597.78
+AC1370,2024-05-30,RBC,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YYZ-MEX,13076.0,306,581.4,1.9,34,6549.18
+AC1371,2024-04-14,marriott hotels,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YVR-NRT,6374.0,312,907.92,2.91,37,7337.59
+AC1372,2024-03-10,Rogers,Seasonal Promo Q2,Seatback Screen,Business Traveller,YYZ-LAX,16141.0,1028,1274.72,1.24,122,9086.23
+AC1373,,Rogers,Brand Awareness Q2,Boarding Gate Display,Leisure Traveller,YYC-YYZ,10417.0,415,1406.85,3.39,38,14056.44
+AC1374,2024-04-10,RBC,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YYC-YYZ,17899.0,1034,1168.42,1.13,182,33075.18
+AC1375,2024-04-23,rbc,Product Launch Q1,In-flight Entertainment,Frequent Flyer,YVR-NRT,8306.0,603,1501.47,2.49,93,11848.36
+AC1376,2024-01-29,Samsung,Seasonal Promo Q2,In-flight Entertainment,Leisure Traveller,YYZ-MEX,17088.0,441,1071.63,2.43,32,8187.44
+AC1377,2024-06-06,Rogers,Brand Awareness Q2,Seatback Screen,Business Traveller,YUL-JFK,16152.0,485,1508.35,3.11,44,15202.86
+AC1378,2024-05-16,RBC,Seasonal Promo Q2,Seatback Screen,Business Traveller,YVR-NRT,10181.0,384,1071.36,2.79,68,13486.92
+AC1379,2024-05-31,Marriott Hotels,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YYZ-LHR,18954.0,1381,3038.2,2.2,111,8382.59
+AC1380,2024-03-21,Marriott Hotels,Seasonal Promo Q2,In-flight Entertainment,Business Traveller,YYZ-LAX,10130.0,676,662.48,0.98,93,22853.85
+AC1381,2024-04-19,Samsung,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YYZ-LHR,11318.0,499,1202.59,2.41,29,9462.58
+AC1382,2024-02-05,TD Bank,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YUL-CDG,8106.0,440,1047.2,2.38,52,5250.37
+AC1383,2024-01-14,Hertz,Brand Awareness Q2,In-flight Entertainment,Leisure Traveller,YYC-YYZ,21830.0,568,1181.44,2.08,79,16873.68
+AC1384,2024-04-26,Rogers,Brand Awareness Q1,Boarding Gate Display,International Traveller,YUL-CDG,3060.0,119,249.9,2.1,17,5697.18
+AC1385,2024-01-08,RBC,Retargeting Q2,WiFi Portal,Business Traveller,YYZ-LAX,4380.0,165,145.2,0.88,12,1331.42
+AC1386,2024-01-26,Hertz,Retargeting Q2,Seatback Screen,Business Traveller,YUL-CDG,16099.0,904,1835.12,2.03,88,15868.39
+AC1387,2024-02-18,TD Bank,Product Launch Q1,In-flight Entertainment,Business Traveller,YUL-CDG,14281.0,610,1744.6,2.86,77,26877.03
+AC1388,2024-04-30,Rogers,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YUL-CDG,7743.0,464,951.2,2.05,42,7596.02
+AC1389,2024-04-25,TD Bank,Product Launch Q1,In-flight Entertainment,Leisure Traveller,YUL-CDG,15680.0,490,730.1,1.49,29,9078.97
+AC1390,2024-04-14,Expedia,Seasonal Promo Q2,Boarding Gate Display,Frequent Flyer,YYZ-LHR,7473.0,491,869.07,1.77,29,10002.42
+AC1391,2024-05-19,Marriott Hotels,Brand Awareness Q1,In-flight Entertainment,Business Traveller,YVR-NRT,14563.0,582,762.42,1.31,74,7270.71
+AC1392,2024-04-13,Rogers,Seasonal Promo Q2,WiFi Portal,International Traveller,YYZ-MEX,7358.0,374,1028.5,2.75,28,3690.49
+AC1393,2024-04-19,Expedia,Product Launch Q1,In-flight Entertainment,International Traveller,YYZ-MEX,21686.0,632,1030.16,1.63,92,20693.57
+AC1394,2024-05-25,TD Bank,Brand Awareness Q1,WiFi Portal,International Traveller,YYC-YYZ,3259.0,170,316.2,1.86,16,6112.68
+AC1395,2024-06-21,hilton,Brand Awareness Q1,WiFi Portal,Business Traveller,YUL-CDG,7644.0,237,322.32,1.36,20,4670.77
+AC1396,2024-05-17,TD Bank,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYZ-LAX,9373.0,430,847.1,1.97,61,13186.55
+AC1397,2024-04-24,Hilton,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-LAX,6954.0,328,774.08,2.36,47,7086.15
+AC1398,2024-02-15,Rogers,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYZ-LHR,6005.0,137,437.03,3.19,9,3230.05
+AC1399,2024-02-01,Samsung,Brand Awareness Q2,Boarding Gate Display,Frequent Flyer,YYZ-MEX,11264.0,564,1223.88,2.17,62,4688.34
+AC1400,2024-01-30,samsung,Retargeting Q2,Boarding Gate Display,Business Traveller,YYZ-LAX,10606.0,523,1762.51,3.37,35,11800.23
+AC1401,2024-06-20,Rogers,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YUL-CDG,8367.0,633,1417.92,2.24,68,4536.59
+AC1402,2024-06-02,Marriott Hotels,Brand Awareness Q1,Boarding Gate Display,International Traveller,YYZ-LHR,6305.0,202,391.88,1.94,36,6047.67
+AC1403,2024-01-28,hertz,Brand Awareness Q2,Seatback Screen,Business Traveller,YYZ-LHR,,565,807.95,1.43,36,5874.43
+AC1404,2024-04-04,Samsung,Brand Awareness Q2,In-flight Entertainment,International Traveller,YUL-JFK,9439.0,514,1156.5,2.25,91,31637.31
+AC1405,2024-06-19,TD Bank,Retargeting Q2,Seatback Screen,International Traveller,YUL-CDG,6106.0,222,317.46,1.43,28,11086.13
+AC1406,2024-04-05,TD Bank,Product Launch Q1,Seatback Screen,Business Traveller,YYZ-LAX,9859.0,443,1537.21,3.47,47,16782.11
+AC1407,2024-03-28,td bank,Retargeting Q2,WiFi Portal,Business Traveller,YUL-CDG,6418.0,425,1164.5,2.74,54,9910.08
+AC1408,2024-02-22,Marriott Hotels,Product Launch Q1,Seatback Screen,Business Traveller,YUL-JFK,6503.0,411,1134.36,2.76,37,11195.68
+AC1409,2024-01-21,Hilton,Seasonal Promo Q2,Seatback Screen,International Traveller,YYZ-MEX,11524.0,498,607.56,1.22,86,18808.22
+AC1410,2024-04-28,Rogers,Seasonal Promo Q2,Seatback Screen,Leisure Traveller,YVR-NRT,12431.0,427,567.91,1.33,72,3705.35
+AC1411,2024-03-19,TD Bank,Seasonal Promo Q2,Boarding Gate Display,International Traveller,YYZ-LHR,5039.0,155,230.95,1.49,26,7872.43
+AC1412,2024-01-09,td bank,Seasonal Promo Q2,Boarding Gate Display,Leisure Traveller,YUL-CDG,3462.0,136,359.04,2.64,11,2868.27
+AC1413,2024-04-18,TD Bank,Product Launch Q1,Boarding Gate Display,Business Traveller,YYC-YYZ,7951.0,397,1103.66,2.78,58,21663.71
+AC1414,2024-06-27,Hertz,Seasonal Promo Q2,WiFi Portal,Leisure Traveller,YUL-JFK,3379.0,74,190.18,2.57,10,1097.22
+AC1415,2024-01-16,Marriott Hotels,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YUL-CDG,7249.0,334,364.06,1.09,44,3429.07
+AC1416,2024-01-03,Samsung,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YUL-JFK,3685.0,236,816.56,3.46,35,13168.57
+AC1417,2024-04-06,Expedia,Seasonal Promo Q2,WiFi Portal,Leisure Traveller,YVR-NRT,4705.0,216,712.8,3.3,11,1023.14
+AC1418,2024-01-01,Hilton,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YUL-JFK,8901.0,597,853.71,1.43,67,20684.35
+AC1419,2024-02-19,Hilton,Brand Awareness Q2,In-flight Entertainment,Frequent Flyer,YVR-NRT,12691.0,930,3245.7,3.49,165,35207.88
+AC1420,2024-01-28,Samsung,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YYZ-MEX,16727.0,498,1364.52,2.74,68,26045.79
+AC1421,2024-05-27,Hilton,Product Launch Q1,In-flight Entertainment,International Traveller,YYZ-MEX,10119.0,473,1381.16,2.92,83,16843.75
+AC1422,2024-02-02,Expedia,Retargeting Q2,Seatback Screen,Business Traveller,YYC-YYZ,11229.0,476,923.44,1.94,71,23368.33
+AC1423,2024-03-21,Marriott Hotels,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YYC-YYZ,11189.0,640,1977.6,3.09,100,6202.04
+AC1424,2024-01-16,Hilton,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YVR-NRT,7501.0,520,1710.8,3.29,78,27290.06
+AC1425,2024-06-22,Hertz,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YVR-NRT,23513.0,1808,4863.52,2.69,219,18409.54
+AC1426,2024-04-23,Rogers,Product Launch Q1,Boarding Gate Display,Leisure Traveller,YYC-YYZ,6436.0,273,753.48,2.76,34,9771.98
+AC1427,2024-02-15,Hertz,Seasonal Promo Q2,In-flight Entertainment,Business Traveller,YVR-NRT,9719.0,522,464.58,0.89,42,9282.8
+AC1428,2024-04-04,Marriott Hotels,Seasonal Promo Q2,Boarding Gate Display,Frequent Flyer,YVR-NRT,4353.0,213,506.94,2.38,37,8059.5
+AC1429,2024-01-17,TD Bank,Retargeting Q2,WiFi Portal,Leisure Traveller,YYZ-LAX,7740.0,344,333.68,0.97,54,12886.76
+AC1430,2024-04-24,Marriott Hotels,Brand Awareness Q2,Seatback Screen,Leisure Traveller,YYZ-LAX,7015.0,277,783.91,2.83,16,1498.42
+AC1431,2024-03-16,RBC,Brand Awareness Q2,Seatback Screen,International Traveller,YYZ-LAX,7291.0,397,893.25,2.25,30,2539.6
+AC1432,2024-03-12,Samsung,Retargeting Q2,Seatback Screen,Leisure Traveller,YYC-YYZ,16945.0,468,879.84,1.88,28,3890.96
+AC1433,2024-06-03,Rogers,Brand Awareness Q2,Seatback Screen,International Traveller,YYC-YYZ,11876.0,306,309.06,1.01,20,1769.93
+AC1434,2024-03-11,Expedia,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-MEX,5089.0,117,324.09,2.77,10,3374.7
+AC1435,2024-04-09,Rogers,Retargeting Q2,In-flight Entertainment,Business Traveller,YUL-CDG,13920.0,724,1086.0,1.5,100,29962.79
+AC1436,2024-02-16,Expedia,Seasonal Promo Q2,Seatback Screen,Frequent Flyer,YUL-JFK,10799.0,742,2441.18,3.29,59,16075.87
+AC1437,2024-05-27,Marriott Hotels,Product Launch Q1,In-flight Entertainment,Leisure Traveller,YYZ-LAX,9881.0,200,664.0,3.32,13,2915.01
+AC1438,2024-06-28,RBC,Seasonal Promo Q2,Seatback Screen,Business Traveller,YUL-JFK,9001.0,516,1707.96,3.31,77,28207.37
+AC1439,2024-04-05,RBC,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-LHR,7092.0,365,766.5,2.1,30,1523.46
+AC1440,2024-01-02,RBC,Retargeting Q2,Boarding Gate Display,Frequent Flyer,YYZ-LAX,8798.0,493,404.26,0.82,52,6195.31
+AC1441,2024-04-11,RBC,Seasonal Promo Q2,Seatback Screen,International Traveller,YUL-CDG,9903.0,327,840.39,-2.57,35,3463.46
+AC1442,2024-04-11,Marriott Hotels,Product Launch Q1,Seatback Screen,International Traveller,YYZ-LAX,17188.0,676,1027.52,1.52,70,16978.03
+AC1443,2024-01-06,TD Bank,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YYZ-LAX,11192.0,453,887.88,1.96,57,3010.18
+AC1444,2024-03-08,Hertz,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YVR-NRT,15917.0,692,1695.4,2.45,51,17809.46
+AC1445,2024-06-06,Rogers,Brand Awareness Q1,Seatback Screen,Leisure Traveller,YYZ-LHR,6489.0,189,323.19,1.71,21,4797.5
+AC1446,2024-02-16,expedia,Brand Awareness Q1,Boarding Gate Display,Leisure Traveller,YVR-NRT,8269.0,282,366.6,1.3,48,8508.16
+AC1447,2024-05-30,Hertz,Retargeting Q2,WiFi Portal,International Traveller,YUL-JFK,7326.0,378,1058.4,2.8,24,6127.12
+AC1448,2024-02-21,Marriott Hotels,Seasonal Promo Q2,In-flight Entertainment,International Traveller,YVR-NRT,13035.0,674,2075.92,3.08,82,14068.64
+AC1449,2024-03-11,Hilton,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YUL-CDG,3996.0,246,651.9,2.65,40,15601.54
+AC1450,2024-02-10,TD Bank,Brand Awareness Q1,WiFi Portal,Leisure Traveller,YUL-CDG,7707.0,336,745.92,2.22,30,3813.53
+AC1451,2024-03-12,Samsung,Product Launch Q1,WiFi Portal,Business Traveller,YUL-JFK,2422.0,168,421.68,2.51,29,4744.3
+AC1452,2024-04-01,Rogers,Brand Awareness Q1,WiFi Portal,Business Traveller,YUL-JFK,4291.0,172,574.48,3.34,21,6361.13
+AC1453,2024-02-22,Samsung,Retargeting Q2,Boarding Gate Display,Leisure Traveller,YVR-NRT,6796.0,224,479.36,2.14,24,8051.02
+AC1454,2024-04-10,Rogers,Product Launch Q1,In-flight Entertainment,International Traveller,YUL-CDG,,627,1730.52,2.76,42,13131.53
+AC1455,2024-03-09,RBC,Brand Awareness Q1,In-flight Entertainment,Leisure Traveller,YUL-CDG,12673.0,257,773.57,3.01,41,3269.25
+AC1456,2024-01-15,Rogers,Product Launch Q1,WiFi Portal,Frequent Flyer,YUL-CDG,6453.0,284,905.96,3.19,29,1462.29
+AC1457,2024-05-05,Rogers,Brand Awareness Q1,Seatback Screen,Frequent Flyer,YUL-JFK,,362,640.74,1.77,61,4860.57
+AC1458,2024-06-08,Hertz,Retargeting Q2,Boarding Gate Display,Leisure Traveller,YUL-JFK,7441.0,296,805.12,2.72,17,862.96
+AC1459,2024-01-29,TD Bank,Brand Awareness Q1,Boarding Gate Display,Frequent Flyer,YYZ-MEX,5370.0,297,493.02,1.66,31,9073.62
+AC1460,,Samsung,Seasonal Promo Q2,Boarding Gate Display,Frequent Flyer,YYC-YYZ,6770.0,427,1140.09,-2.67,62,18357.12
+AC1461,2024-04-02,Hilton,Retargeting Q2,Seatback Screen,Business Traveller,YYZ-LAX,9828.0,623,853.51,1.37,49,15260.97
+AC1462,2024-06-18,TD Bank,Brand Awareness Q1,WiFi Portal,Business Traveller,YUL-JFK,6865.0,214,500.76,2.34,33,3379.23
+AC1463,2024-04-23,Rogers,Retargeting Q2,Boarding Gate Display,Frequent Flyer,YUL-JFK,5554.0,260,319.8,1.23,26,5154.95
+AC1464,2024-01-24,Rogers,Retargeting Q2,Seatback Screen,Frequent Flyer,YUL-CDG,7050.0,492,1136.52,2.31,78,26192.06
+AC1465,2024-02-19,Hertz,Seasonal Promo Q2,In-flight Entertainment,International Traveller,YUL-JFK,,590,731.6,1.24,37,4594.23
+AC1466,2024-05-24,RBC,Brand Awareness Q2,Seatback Screen,International Traveller,YYZ-LAX,14236.0,487,1378.21,2.83,85,19131.43
+AC1467,2024-01-26,Marriott Hotels,Brand Awareness Q2,WiFi Portal,Frequent Flyer,YUL-JFK,3230.0,239,377.62,1.58,16,3393.39
+AC1468,,Hertz,Product Launch Q1,Seatback Screen,International Traveller,YYZ-LHR,10903.0,495,1727.55,3.49,63,24274.25
+AC1469,2024-03-21,Rogers,Seasonal Promo Q2,In-flight Entertainment,Frequent Flyer,YYZ-LAX,13561.0,639,1840.32,2.88,53,11428.99
+AC1470,2024-04-12,Marriott Hotels,Retargeting Q2,Boarding Gate Display,Business Traveller,YVR-NRT,5113.0,243,250.29,1.03,25,5188.31
+AC1471,2024-03-15,RBC,Brand Awareness Q1,Seatback Screen,Business Traveller,YUL-CDG,7592.0,487,847.38,1.74,54,12813.69
+AC1472,2024-01-17,TD Bank,Retargeting Q2,Boarding Gate Display,Leisure Traveller,YYZ-LHR,10967.0,463,1051.01,2.27,80,8074.39
+AC1473,2024-01-14,RBC,Product Launch Q1,WiFi Portal,Frequent Flyer,YYZ-LHR,7600.0,325,614.25,1.89,28,8379.63
+AC1474,2024-02-12,RBC,Retargeting Q2,In-flight Entertainment,Frequent Flyer,YVR-NRT,,984,1731.84,1.76,137,25509.17
+AC1475,2024-04-27,Hertz,Product Launch Q1,WiFi Portal,International Traveller,YYZ-LAX,4592.0,151,523.97,3.47,26,9101.13
+AC1476,2024-02-25,Samsung,Seasonal Promo Q2,Boarding Gate Display,Leisure Traveller,YYC-YYZ,3235.0,100,301.0,3.01,6,1348.17
+AC1477,2024-04-19,TD Bank,Seasonal Promo Q2,WiFi Portal,Business Traveller,YUL-CDG,6528.0,337,667.26,1.98,29,7746.82
+AC1478,2024-01-27,Marriott Hotels,Seasonal Promo Q2,In-flight Entertainment,Business Traveller,YYC-YYZ,24266.0,824,1301.92,1.58,86,11008.67
+AC1479,2024-01-02,marriott hotels,Seasonal Promo Q2,WiFi Portal,Frequent Flyer,YYZ-LHR,3834.0,281,828.95,2.95,29,3901.78
+AC1480,2024-04-20,Expedia,Brand Awareness Q2,WiFi Portal,International Traveller,YUL-CDG,5206.0,138,270.48,1.96,23,4292.81
+AC1481,2024-06-10,Samsung,Brand Awareness Q1,In-flight Entertainment,Leisure Traveller,YYC-YYZ,20845.0,516,448.92,0.87,26,8307.29
+AC1482,2024-02-17,td bank,Retargeting Q2,In-flight Entertainment,Leisure Traveller,YYZ-LHR,15855.0,716,1303.12,1.82,60,4086.73
+AC1483,2024-01-28,Marriott Hotels,Brand Awareness Q1,In-flight Entertainment,Frequent Flyer,YYC-YYZ,12647.0,929,1727.94,1.86,105,6056.92
+AC1484,2024-02-16,TD Bank,Product Launch Q1,WiFi Portal,Frequent Flyer,YYZ-MEX,3463.0,276,667.92,2.42,13,3023.96
+AC1485,2024-01-08,Hertz,Product Launch Q1,Seatback Screen,International Traveller,YYZ-LAX,7270.0,240,808.8,3.37,22,5346.53
+AC1486,2024-06-24,TD Bank,Product Launch Q1,Seatback Screen,International Traveller,YUL-CDG,11436.0,533,1066.0,2.0,67,9720.75
+AC1487,2024-01-09,Expedia,Product Launch Q1,WiFi Portal,Business Traveller,YYZ-LHR,6807.0,284,497.0,1.75,15,1694.5
+AC1488,2024-02-01,Expedia,Retargeting Q2,WiFi Portal,Leisure Traveller,YYZ-MEX,7638.0,201,287.43,1.43,11,1641.91
+AC1489,2024-02-20,Marriott Hotels,Retargeting Q2,Boarding Gate Display,Frequent Flyer,YVR-NRT,,649,1570.58,-2.42,82,10885.31
+AC1490,2024-01-10,RBC,Seasonal Promo Q2,Boarding Gate Display,International Traveller,YUL-CDG,3266.0,160,246.4,1.54,23,4372.77
+AC1491,2024-06-07,Hilton,Retargeting Q2,Boarding Gate Display,Business Traveller,YYZ-MEX,3783.0,238,656.88,2.76,18,1454.51
+AC1492,2024-01-29,RBC,Brand Awareness Q1,In-flight Entertainment,International Traveller,YYZ-MEX,9572.0,472,594.72,1.26,32,6759.77
+AC1493,2024-03-02,TD Bank,Brand Awareness Q2,Boarding Gate Display,Business Traveller,YYC-YYZ,7596.0,325,520.0,1.6,19,4664.13
+AC1494,2024-01-04,Marriott Hotels,Product Launch Q1,In-flight Entertainment,Frequent Flyer,YYZ-LAX,15082.0,1062,2325.78,2.19,96,36531.21
+AC1495,2024-06-07,hertz,Seasonal Promo Q2,Seatback Screen,International Traveller,YYZ-LHR,8326.0,379,894.44,2.36,23,4860.68
+AC1496,2024-04-25,Rogers,Brand Awareness Q2,In-flight Entertainment,Frequent Flyer,YUL-JFK,,1117,1898.9,1.7,119,21351.37
+AC1497,2024-05-15,Samsung,Retargeting Q2,Boarding Gate Display,Leisure Traveller,YYC-YYZ,4788.0,188,176.72,0.94,10,1431.62
+AC1498,2024-06-26,TD Bank,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-LAX,5802.0,370,1028.6,2.78,23,5201.08
+AC1499,2024-02-12,Samsung,Brand Awareness Q1,Seatback Screen,International Traveller,YUL-JFK,10442.0,395,1354.85,-3.43,65,7134.0
+AC1000,2024-02-05,Marriott Hotels,Product Launch Q1,In-flight Entertainment,International Traveller,YUL-CDG,11358.0,315,765.45,2.43,38,11423.06
+AC1250,2024-01-28,Hilton,Product Launch Q1,WiFi Portal,Leisure Traveller,YYZ-MEX,2214.0,84,73.08,0.87,5,1614.7
+AC1447,2024-05-30,Hertz,Retargeting Q2,WiFi Portal,International Traveller,YUL-JFK,7326.0,378,1058.4,2.8,24,6127.12
+AC1126,2024-06-26,TD Bank,Brand Awareness Q2,Seatback Screen,Frequent Flyer,YUL-JFK,14091.0,912,2863.68,3.14,158,34698.87
+AC1241,2024-02-28,Expedia,Brand Awareness Q1,WiFi Portal,Frequent Flyer,YYZ-LHR,7178.0,449,754.32,1.68,63,6528.0
+AC1056,2024-06-24,TD Bank,Product Launch Q1,WiFi Portal,International Traveller,YVR-NRT,2747.0,129,296.7,2.3,16,3944.88
+AC1023,2024-03-04,Hilton,Retargeting Q2,Seatback Screen,Frequent Flyer,YYZ-LHR,17547.0,902,1380.06,1.53,82,19602.37
+AC1419,2024-02-19,Hilton,Brand Awareness Q2,In-flight Entertainment,Frequent Flyer,YVR-NRT,12691.0,930,3245.7,3.49,165,35207.88
+AC1008,2024-02-27,Expedia,Product Launch Q1,Boarding Gate Display,Frequent Flyer,YYZ-LAX,6770.0,286,280.28,0.98,15,2484.75
+AC1290,2024-04-22,TD Bank,Product Launch Q1,Seatback Screen,International Traveller,YYC-YYZ,14535.0,630,529.2,0.84,71,3707.79
+AC1348,2024-06-29,Hertz,Seasonal Promo Q2,Boarding Gate Display,Business Traveller,YYZ-LAX,10454.0,630,2066.4,3.28,97,12015.77
+AC1148,2024-02-01,Hilton,Retargeting Q2,Seatback Screen,Business Traveller,YYZ-MEX,12552.0,840,1537.2,1.83,88,15301.45
+AC1427,2024-02-15,Hertz,Seasonal Promo Q2,In-flight Entertainment,Business Traveller,YVR-NRT,9719.0,522,464.58,0.89,42,9282.8
+AC1116,2024-02-17,Expedia,Brand Awareness Q1,WiFi Portal,Business Traveller,YUL-CDG,6562.0,303,730.23,2.41,27,4990.5
+AC1268,2024-03-24,Rogers,Retargeting Q2,WiFi Portal,Frequent Flyer,YUL-CDG,2247.0,105,301.35,2.87,13,1229.64
