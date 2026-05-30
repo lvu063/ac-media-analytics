@@ -35,6 +35,7 @@ Built with React. Includes summary KPIs, weekly spend trend, CTR by placement, R
 | Data Cleaning | 6 documented cleaning steps — duplicates, nulls, negatives, casing |
 | Reporting & Presentation | Interactive dashboard + written key findings |
 | Digital Marketing Analytics | CTR, CPC, ROAS, conversion rate, audience profiling |
+| A/B Testing | Chi-square test, t-test, confidence intervals, lift analysis (`python/ab_test_analysis.py`) |
 
 ---
 
