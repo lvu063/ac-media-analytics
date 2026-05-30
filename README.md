@@ -28,7 +28,7 @@ Built with React. Includes summary KPIs, weekly spend trend, CTR by placement, R
 | Skill | Where |
 |---|---|
 | Python | Data generation, cleaning, pipeline (`python/ac_media_data.py`) |
-| SQL | Campaign queries via SQLite — ROAS, CTR, segmentation (`python/ac_media_data.py`) |
+| SQL | Campaign queries via SQLite — ROAS, CTR, segmentation (`python/ac_media_data.py`); expanded to 15 business queries covering KPIs, audience profiling, A/B testing, budget pacing, and window functions (`sql/ac_media_queries.sql`) |
 | R | OLS regression, correlation analysis, ggplot2 visualisation (`r/ac_fuel_analysis.R`) |
 | PowerBI | Campaign performance report (`plots/powerbi_report.png`) |
 | Statistics & Data Analysis | Three regression models with interpretation |
@@ -46,6 +46,8 @@ ac-media-analytics/
 │   └── ac_media_data.py        # Data generation, cleaning, SQL queries
 ├── r/
 │   └── ac_fuel_analysis.R      # Regression analysis, visualisations
+├── sql/
+│   └── ac_media_queries.sql    # 15 SQL queries across 6 business categories
 ├── data/
 │   ├── ac_media_raw.csv        # Raw dataset (with intentional errors)
 │   ├── ac_media_clean.csv      # Cleaned dataset (493 rows)
