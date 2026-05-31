@@ -36,6 +36,7 @@ Built with React. Includes summary KPIs, weekly spend trend, CTR by placement, R
 | Reporting & Presentation | Interactive dashboard + written key findings |
 | Digital Marketing Analytics | CTR, CPC, ROAS, conversion rate, audience profiling |
 | A/B Testing | Chi-square test, t-test, confidence intervals, lift analysis (`python/ab_test_analysis.py`) |
+| CRM & Audience Profiling | RFM segmentation, advertiser lifecycle analysis, CRM action planning (`python/rfm_segmentation.py`) |
 
 ---
 
