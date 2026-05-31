@@ -1,0 +1,9 @@
+advertiser,segment,RFM_score,recency,frequency,monetary,avg_roas,total_conversions,total_revenue
+Hilton,Champions,12,1,75,73822.06,12.14,3951,808736.68
+Marriott Hotels,Champions,10,1,73,75342.34,13.75,4172,893296.69
+Td Bank,Churned — High Value,8,2,74,69470.07,13.04,3514,754647.83
+Rbc,At Risk — High Value,8,2,58,66821.55,11.44,3525,706124.4
+Hertz,Promising — New,7,1,52,51601.4,12.84,2681,605376.84
+Samsung,Promising — New,6,1,54,50836.59,12.96,2506,601425.11
+Rogers,Needs Attention,5,5,56,55903.46,13.91,3211,707063.89
+Expedia,Dormant,4,2,51,44110.03,12.74,2786,596110.21
